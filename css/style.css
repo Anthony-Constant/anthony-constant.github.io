@@ -1,0 +1,21 @@
+body {
+	background: linear-gradient(135deg, #353535, #D7D7D7);
+	color: white;
+
+}
+
+.social-icons a {
+	color: white;
+	font-size: 20px; /* Adjust the font size as desired */
+	margin-right: 10px; /* Adjust the spacing as desired */
+
+
+  }
+
+  .subscribe-button {
+	position: fixed;
+	top: 20px;
+	right: 20px;
+  }
+
+  
