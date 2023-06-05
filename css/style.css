@@ -1,5 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;600&display=swap');
+
+
 body {
 	background: linear-gradient(135deg, #353535, #D7D7D7);
+	font-family: "Montserrat", Arial, Helvetica, sans-serif;
 	color: white;
 
 }
