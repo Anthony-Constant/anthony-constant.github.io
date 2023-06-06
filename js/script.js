@@ -1,5 +1,5 @@
 var typed = new Typed('#typed', {
-    strings: ["Hello, I'm Anthony Constant"],
+    strings: ["Hi there, I'm Anthony Constant"],
     typeSpeed: 50,
     cursorChar: '_'
     });
