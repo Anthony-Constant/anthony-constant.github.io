@@ -1,12 +1,28 @@
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;600&display=swap');
 
 
+
 body {
-	background: linear-gradient(135deg, #353535, #D7D7D7);
+	background: linear-gradient(180deg, #252525 0%, #6e6e6e 100%);
+	color: #fff;
 	font-family: "Montserrat", Arial, Helvetica, sans-serif;
-	color: white;
+	
 
 }
+
+.navbar {
+	background-color: transparent !important;
+	
+}
+
+.navbar .navbar-nav .nav-link {
+	color: white !important;
+}
+
+.navbar-brand {
+	color: white !important;
+}
+
 
 .social-icons a {
 	color: white;
@@ -15,3 +31,8 @@ body {
 
 
   }
+  .highlight {
+	color: white;
+  }
+  
+  
