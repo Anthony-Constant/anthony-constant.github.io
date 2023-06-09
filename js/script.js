@@ -1,15 +1,19 @@
 var typed = new Typed('#typed', {
-    strings: ["Hi there, I'm Anthony Constant"],
+    strings: ["Computer scientist", "Blogger", "Freelancer"],
     typeSpeed: 70,
-    cursorChar: '_'
+    cursorChar: '_',
+    startDelay: 0,
+    backDelay: 3000,
+    loop: true
     });
 
 var typed = new Typed('#subtyped', {
-    strings: ["First Class Honours Bachelor of Science (BSc) Graduate in Computer Science"],
+    strings: [],
     typeSpeed: 70,
     cursorChar: '_',
-    startDelay: 3000,
-    backDelay: 2000
+    startDelay: 150,
+    backDelay: 2000,
+    loop: true
     
         
      });
