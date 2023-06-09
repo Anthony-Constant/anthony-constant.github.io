@@ -12,9 +12,8 @@ To see a live preview of this website, visit [https://hq.anthonyconstant.co.uk/]
 - [Description](#description)
 - [Preview](#preview)
 - [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
 - [License](#license)
+- [Acknowledgements](#acknowledgements)
 
 ## Installation
 To install and run this website locally, follow these steps:
