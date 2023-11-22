@@ -1,19 +1,12 @@
-var typed = new Typed('#typed', {
-    strings: ["Computer scientist", "Blogger", "Freelancer"],
-    typeSpeed: 70,
-    cursorChar: '_',
-    startDelay: 0,
-    backDelay: 3000,
-    loop: true
-    });
-
-var typed = new Typed('#subtyped', {
-    strings: [],
-    typeSpeed: 70,
-    cursorChar: '_',
-    startDelay: 150,
-    backDelay: 2000,
-    loop: true
-    
-        
-     });
+VANTA.NET({
+    el: "html",
+    mouseControls: true,
+    touchControls: true,
+    gyroControls: false,
+    minHeight: 200.00,
+    minWidth: 200.00,
+    scale: 1.00,
+    scaleMobile: 1.00,
+    color: 0x3fddff,
+    backgroundColor: 0x101820
+});
