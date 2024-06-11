@@ -1,5 +1,4 @@
-if (window.VANTA) window.VANTA.DOTS({
-    el: "html",
+if (window.VANTA) window.VANTA.NET({    el: "html",
     mouseControls: true,
     touchControls: true,
     gyroControls: false,
@@ -7,10 +6,11 @@ if (window.VANTA) window.VANTA.DOTS({
     minWidth: 200.00,
     scale: 1.00,
     scaleMobile: 1.00,
-    showLines: false,
     color: 0x3fddff,
-    color2: 0xff8820,
-    backgroundColor: 0x101820
+    backgroundColor: 0x0,
+    points: 5.00,
+    maxDistance: 15.00,
+    spacing: 20.00
   })
   
   _strk.push(function() {
