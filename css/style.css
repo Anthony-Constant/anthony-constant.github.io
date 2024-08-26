@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
 
 :root {
 	--primary: #2596be;
@@ -29,4 +29,14 @@ body {
 	background-color: var(--white) !important;
 	border-color: var(--white) !important;
 	color: var(--secondary) !important;
+}
+.profile-img {
+  border-radius: 50%;
+  border: 5px solid #fff; /* Adds a white border around the image */
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Adds a subtle drop shadow */
+  transition: transform 0.3s ease-in-out; /* Adds a smooth transition effect */
+}
+
+.profile-img:hover {
+  transform: scale(1.05); /* Slightly enlarges the image on hover */
 }
