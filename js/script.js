@@ -7,7 +7,7 @@ if (window.VANTA) window.VANTA.NET({    el: "html",
     scale: 1.00,
     scaleMobile: 1.00,
     color: 0x3fddff,
-    backgroundColor: 0x0,
+    backgroundColor: 0x212529,
     points: 5.00,
     maxDistance: 15.00,
     spacing: 20.00
